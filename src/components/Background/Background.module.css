@@ -1,0 +1,11 @@
+.container {
+  position: fixed;
+  inset: 0;
+}
+
+.grayBack {
+  position: absolute;
+  inset: 0;
+  top: 50%;
+  background-color: hsl(195deg, 20%, 86%);
+}
